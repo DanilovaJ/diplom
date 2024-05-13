@@ -1,0 +1,1 @@
+export const CODE = 'msg_swimming_pool';
